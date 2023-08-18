@@ -1,6 +1,8 @@
 ---
 name: Bug issue template
 about: This template is used for bugs and problems
+title: 'teste'
+labels: 'bug'
 ---
 
 ## Issue Type
