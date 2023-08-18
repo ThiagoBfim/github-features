@@ -1,6 +1,6 @@
 ---
 name: Bug issue template
-description: This template is used for bugs and problems
+about: This template is used for bugs and problems
 ---
 
 ## Issue Type
